@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ac5200fbb3893b42a9c5ef436417a42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrow_Prefab: {fileID: 3447874097331201996, guid: c268f652782f1374398f7f4dd82f9618,
+      type: 3}
+  - spear_Prefab: {fileID: 569131190, guid: 74021a882f643c34ebcc48ca522c0b19, type: 3}
+  - arrow_Bow_StartPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
